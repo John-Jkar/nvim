@@ -186,7 +186,6 @@ Edit `lua/mappings.lua` and add lines using:
 map("n", "<leader>xx", function() ... end, { desc = "Description" })
 ```
 
----
 
 ## 📝 Notes
 
