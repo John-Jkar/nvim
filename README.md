@@ -185,7 +185,7 @@ Edit `lua/mappings.lua` and add lines using:
 ```lua
 map("n", "<leader>xx", function() ... end, { desc = "Description" })
 ```
-
+![vim](./vim.png)
 
 ## 📝 Notes
 
